@@ -1,6 +1,6 @@
 services:
   tic-tac-toe:
-    image: tic-tac-toe:build-5
+    image: asabhi6776/tic-tac-toe:latest
     container_name: tictactoe
     restart: always
     env_file:
