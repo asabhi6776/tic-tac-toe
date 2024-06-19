@@ -8,6 +8,9 @@ I made TicTacToe browser based game, I used flask to develop this game. It is br
 Install TicTacToe with docker
 
 ```bash
+  git clone https://github.com/asabhi6776/tic-tac-toe.git
+  cd tic-tac-toe
+  cp env.example .env
   docker compose pull
   docker compose up -d
 ```
