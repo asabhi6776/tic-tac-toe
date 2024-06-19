@@ -32,8 +32,6 @@ Contributions are always welcome!
 
 See `contributing.md` for ways to get started.
 
-Please adhere to this project's `code of conduct`.
-
 ## Authors
 
 - [@asabhi6776](https://www.github.com/asabhi6776)
